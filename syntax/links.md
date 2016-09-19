@@ -3,7 +3,7 @@ Markdown supporte deux types de liens: inline et de référence.
 Dans les deux styles , le texte du lien est délimité par [crochets] .
 
 Pour créer un lien en ligne , utilisez un ensemble de parenthèses régulières immédiatement après la fermeture du support de la place du texte du lien. A l'intérieur des parenthèses , mettez l'URL à laquelle vous voulez que le lien vers le point , avec un titre optionnel pour le lien, entouré de guillemets . Par exemple:
-`` ` Démarques
+`` ` Démarques   blabla
 [I'm an inline-style link](https://www.google.com)
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
